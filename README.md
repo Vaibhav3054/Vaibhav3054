@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vaibhav3054
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning python,java & web development 
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me < just inbox me>
 
 <!---
